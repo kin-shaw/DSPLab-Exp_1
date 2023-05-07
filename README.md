@@ -12,6 +12,6 @@ Track003.wav & ConvFile3.txt --> Problem 3 where these two files are convolved t
 convolution.wav --> Output Wave of Problem 3.
 
 speech.wav --> Problem 4 Original file before modulation.
-modified_speech.wav --> After multiplication of cosine to the original speech.wav file.
+modified_speech.wav --> After multiplication of cosine to the original speech.wav file..
 
 
